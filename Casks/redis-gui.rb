@@ -1,9 +1,9 @@
 
 cask 'redis-gui' do
-  version '1.2.5'
-  sha256 'c8353536cbd443daca4b4fe29804dd66ebb9bf1fcb95318787834e713d1ec3f7'
+  version '1.2.7'
+  sha256 'fd818fe5b245bc2f82906134f74212cfcf5b00c2e7c8e90f80bcd6ab7fdbbcea'
 
-  url 'https://github.com/ekvedaras/redis-gui/releases/download/v1.2.6/redis-gui-1.2.6-mac.zip'
+  url 'https://github.com/ekvedaras/redis-gui/releases/download/v1.2.7/redis-gui-1.2.7-mac.zip'
   appcast 'https://github.com/ekvedaras/redis-gui/releases.atom'
   name 'Redis GUI (unofficial)'
   homepage 'https://github.com/ekvedaras/redis-gui'
