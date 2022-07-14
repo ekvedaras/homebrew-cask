@@ -1,10 +1,10 @@
 
 cask 'redis-gui' do
-  version '2.1.0'
+  version '2.1.1'
   
 #   if Hardware::CPU.intel?
-    url 'https://github.com/ekvedaras/redis-gui/releases/download/v2.1.0/redis-gui-2.1.0-mac.zip'
-    sha256 'ec37c10eeb88e32342030fdb701b0831ddf38eadf7132bfec7d2f894b7f1a3cc'
+    url 'https://github.com/ekvedaras/redis-gui/releases/download/v2.1.1/redis-gui-2.1.1-mac.zip'
+    sha256 '2c63dd2fd768b53a6b775b55b2c9f4bec65bae324270082c6415ad53376634fa'
 #     "x64"
 #   else
 #     url 'https://github.com/ekvedaras/redis-gui/releases/download/v2.0.0/redis-gui-2.0.0-arm64-mac.zip'
